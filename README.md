@@ -1,7 +1,10 @@
 # dandySpectrumAnalyzer
 All code affiliated the the open source spectrum analyzer. More info found at https://hackaday.io/project/12567-affordable-spectrum-analzyer
+
 MIT License
-Copyright (c) [year] [fullname]
+
+Copyright (c) 2016 Daniel Kisling
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
